@@ -24,7 +24,7 @@ def test_initial_attributes():
 def test_overlapping_options():
     """Verify that if an selected string option is a substring of another it is not checked.
 
-    Added to confirm, https://github.com/wildfish/crispy-forms-gds/issues/82
+    Added to confirm, https://github.com/StuartMacKay/crispy-forms-gds/issues/82
     where an option is selected if the initial value matches any part of the
     option value, i.e. an initial value of 'phone' matches an option with the
     value 'mobile_phone', so both boxes are checked.

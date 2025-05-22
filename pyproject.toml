@@ -9,7 +9,7 @@ description = "Django application to add 'django-crispy-forms' layout objects fo
 keywords = ["Django, django-crispy-forms, gov.uk, design system"]
 license = { file = "LICENCE.txt" }
 authors = [
-  {name = "Wildfish", email = "developers@wildfish.com"},
+  {name = "Stuart MacKay", email = "smackay@flagstonesoftware.com"},
 ]
 readme = "README.rst"
 requires-python = ">=3.10"

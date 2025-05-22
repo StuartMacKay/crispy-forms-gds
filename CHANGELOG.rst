@@ -50,7 +50,7 @@ Latest
 * Fix `Option overlap`_ in radios and checkboxes, where, if one option is
   a substring of another, then both are selected/checked.
 
-.. _Option overlap: https://github.com/wildfish/crispy-forms-gds/issues/82
+.. _Option overlap: https://github.com/StuartMacKay/crispy-forms-gds/issues/82
 
 0.3.0 (2024-02-12)
 ------------------

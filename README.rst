@@ -9,8 +9,8 @@ guidelines.
 .. _Django Crispy Forms: https://github.com/maraujop/django-crispy-forms/
 .. _GOV.UK Design System: https://design-system.service.gov.uk/
 
-.. image:: https://codecov.io/gh/wildfish/crispy-forms-gds/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/wildfish/crispy-forms-gds
+.. image:: https://codecov.io/gh/StuartMacKay/crispy-forms-gds/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/StuartMacKay/crispy-forms-gds
 
 .. image:: https://badge.fury.io/py/crispy-forms-gds.svg
     :target: https://pypi.python.org/pypi/crispy-forms-gds/
@@ -41,7 +41,7 @@ For information the components which have not yet been implemented. Check the
 `issues`_ for the current status. If you have a pressing need for a particular
 component, then, please, open an issue.
 
-.. _issues: https://github.com/wildfish/crispy-forms-gds/issues
+.. _issues: https://github.com/StuartMacKay/crispy-forms-gds/issues
 
 Quickstart
 ==========
@@ -261,7 +261,7 @@ the forms in action:
 
 .. code-block:: console
 
-    git clone git@github.com:wildfish/crispy-forms-gds.git
+    git clone git@github.com:StuartMacKay/crispy-forms-gds.git
     cd crispy-forms-gds
 
 First, create a virtual environment:
@@ -319,12 +319,12 @@ Project Information
 
 Crispy Forms GDS is a community supported tool of the GOV.UK Design System. The
 Design System team is not responsible for it and cannot support you with using it.
-Contact Wildfish Ltd. directly if you need help or you want to request a feature.
+Contact Stuart MacKay directly if you need help or you want to request a feature.
 The easiest way to do this is to open an issue at our GitHub repository.
 
-* Documentation: https://ebird-checklists.readthedocs.io/en/latest/
-* Issues: https://github.com/wildfish/crispy-forms-gds/issues
-* Repository: https://github.com/wildfish/crispy-forms-gds/
+* Documentation: https://crispy-forms-gds.readthedocs.io/en/latest/
+* Issues: https://github.com/StuartMacKay/crispy-forms-gds/issues
+* Repository: https://github.com/StuartMacKay/crispy-forms-gds/
 
 The app is tested with Python 3.10+, and version 1.x officially supports Django
 4.2 LTS, and `Django Crispy Forms`_ 2.x. Version 2.x supports Django 5.0, 5.1,

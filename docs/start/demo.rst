@@ -1,6 +1,6 @@
-.. _crispy-forms-gds: https://github.com/wildfish/crispy-forms-gds
+.. _crispy-forms-gds: https://github.com/StuartMacKay/crispy-forms-gds
 .. _install nvm: https://github.com/nvm-sh/nvm
-.. _makefile: https://github.com/wildfish/crispy-forms-gds/blob/master/Makefile
+.. _makefile: https://github.com/StuartMacKay/crispy-forms-gds/blob/master/Makefile
 
 =========
 Demo Site
@@ -12,7 +12,7 @@ components in action.
 
 .. code-block:: console
 
-    git clone git@github.com:wildfish/crispy-forms-gds.git
+    git clone git@github.com:StuartMacKay/crispy-forms-gds.git
     cd crispy-forms-gds
 
 First, create a virtual environment:

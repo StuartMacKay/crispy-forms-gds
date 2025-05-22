@@ -12,8 +12,8 @@ on the Design System page. There are two main daughter blocks ``{% block header_
 for displaying the crown logo and "GOV.UK" and ``{% block header__service %}``
 
 .. note::
-    The header__logo block is specifically overridden in the Demo site as Wildfish
-    does not have permission to display the crown logo.
+    The header__logo block is specifically overridden in the Demo site as the
+    author does not have permission to display the crown logo.
 
 Within ``{% block header__service %}`` there are three further blocks: ``{% block header__service__url %}``
 and ``{% block header__service__name %}`` where you can set the URL, and name for your site

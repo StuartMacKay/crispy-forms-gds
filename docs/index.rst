@@ -44,4 +44,4 @@ for the `GOV.UK Design System`_.
 
 You can find a detailed history of the project in the `CHANGELOG`_ on GitHub.
 
-.. _CHANGELOG: https://github.com/wildfish/crispy-forms-gds/blob/master/CHANGELOG.rst
+.. _CHANGELOG: https://github.com/StuartMacKay/crispy-forms-gds/blob/master/CHANGELOG.rst

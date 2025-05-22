@@ -12,8 +12,8 @@ which includes the licence terms and the crown copyright symbol. This is wrapped
 in a ``{% block footer__meta %}`` tag.
 
 .. note::
-    The footer__meta block is specifically overridden in the Demo site as Wildfish
-    does not have permission to display the crown copyright symbol.
+    The footer__meta block is specifically overridden in the Demo site as the
+    author does not have permission to display the crown copyright symbol.
 
 There is also an empty block for site navigation, ``{% block footer__navigation %}``, but
 it is really only intended as a guide - the footer section has quite a bit of variation

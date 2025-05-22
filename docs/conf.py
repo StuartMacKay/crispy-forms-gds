@@ -25,8 +25,8 @@ django.setup()
 # -- Project information -----------------------------------------------------
 
 project = "Crispy Forms GDS"
-copyright = "2020, Wildfish Ltd."
-author = "Wildfish"
+copyright = "2020-2025, Stuart MacKay"
+author = "Stuart MacKay"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
