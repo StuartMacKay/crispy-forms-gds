@@ -343,7 +343,7 @@ class CrispyGDSFieldNode(template.Node):
 
                     widget_class_name = widget.__class__.__name__
 
-                    if widget_class_name in ["Select", "TextInput", "Textarea"]:
+                    if widget_class_name in ["EmailInput", "Select", "TextInput", "Textarea"]:
                         if is_multivalue(field):
                             if error_count == 0:
                                 css_class += " govuk-input--error"
